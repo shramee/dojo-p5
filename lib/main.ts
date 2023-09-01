@@ -1,4 +1,4 @@
-import { Account, BigNumberish, RpcProvider, str } from "starknet";
+import { Account, BigNumberish, RpcProvider } from "starknet";
 import { RPCProvider, strTofelt252Felt } from "@dojoengine/core";
 
 type DojoCredentialArgs = {

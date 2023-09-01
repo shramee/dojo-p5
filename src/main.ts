@@ -22,3 +22,5 @@ if ($f) {
 	});
 	setTimeout(() => setup($f), 250);
 }
+
+export default Dojo;
